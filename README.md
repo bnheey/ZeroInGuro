@@ -1,70 +1,60 @@
-# Getting Started with Create React App
+# 🏙 Zero In Guro
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Zero In Guro**는 구로 지역의 정보를 탐색하고 소개하기 위해 만든 웹
+프로젝트입니다.\
+지역 기반 정보를 사용자에게 직관적으로 전달하는 것을 목표로 **UI / UX
+중심으로 기획하고 개발**했습니다.
 
-## Available Scripts
+## 👉 https://zero-in-guro.vercel.app/
 
-In the project directory, you can run:
+<br>
 
-### `npm start`
+# Project Overview
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Zero In Guro는 구로구 환경 인식 제고 및 제로웨이스트 실천을 위한 웹 페이지 입니다.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+단순한 기능 구현보다는 **사용자 경험(UI/UX)을 중심으로 설계된 프론트엔드 프로젝트**입니다.
 
-### `npm test`
+<br>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Key Features
 
-### `npm run build`
+### 사용자 경험 중심 UI
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- 가독성을 고려한 레이아웃 설계
+- 직관적인 네비게이션 구조
+- 실제 사용 흐름을 고려한 인터페이스 설계
+- Lottie, Key frame을 활용한 인터렉션
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 협업
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+이 프로젝트는 **디자이너, 기획자와 협업하며 UI / UX를 중심으로 개발한 서비스**입니다.
 
-### `npm run eject`
+협업 과정에서
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- 디자인 의도를 코드로 구현
+- UI 컴포넌트 구조 설계
+- 사용자 경험 개선
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+을 중심으로 개발을 진행했습니다.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<br>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# Tech Stack
 
-## Learn More
+### Frontend
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- React
+- Lottie
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<br>
 
-### Code Splitting
+# What I Learned
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+이 프로젝트를 통해
 
-### Analyzing the Bundle Size
+- 디자이너와의 협업을 통한 UI 구현 경험
+- 사용자 경험을 고려한 화면 구조 설계
+- 프론트엔드 관점에서의 UI 아키텍처 설계
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+를 경험할 수 있었습니다.
